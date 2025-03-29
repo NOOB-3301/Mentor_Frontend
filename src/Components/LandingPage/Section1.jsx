@@ -35,9 +35,9 @@ const Section1 = () => {
                     >
                         <a
                             className="btn transition-transform duration-[0.3s] hover:scale-x-[1.03]"
-                            href=""
+                            href="/signup"
                         >
-                            <span className='flex gap-2 items-center '>
+                            <span  className='flex gap-2 items-center '>
                             Get started
                             <IoArrowForwardSharp/>
                             </span>
