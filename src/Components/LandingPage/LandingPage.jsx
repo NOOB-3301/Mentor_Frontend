@@ -7,15 +7,15 @@ import Animations from './Animations'
 const LandingPage = () => {
   return (
     <>
-    <body className="flex font-mono min-h-[100vh] flex-col bg-[#181B20] text-white">
+      <body className="flex font-mono min-h-[100vh] flex-col bg-[#181B20] text-white">
 
-    <Header />
-    
-    <Section1/>
-    <FootarComp/>
-    <Animations/>
-    </body>
-    
+        <Header />
+
+        <Section1 />
+        <FootarComp />
+        <Animations />
+      </body>
+
     </>
   )
 }
