@@ -9,7 +9,7 @@ const FootarComp = () => {
                 className="flex h-full w-[250px] flex-col place-items-center gap-6 max-md:w-full"
             >
                 <img
-                    src="../../../public/assets/logo/logo.png"
+                    src="../../assets/logo/logo.png"
                     alt="logo"
                     srcset=""
                     className="max-w-[120px]"

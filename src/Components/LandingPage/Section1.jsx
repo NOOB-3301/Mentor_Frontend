@@ -56,7 +56,7 @@ const Section1 = () => {
                                     max-lg:h-fit max-lg:max-h-[320px] max-lg:min-h-[150px] max-lg:w-[320px]"
                     id="dashboard">
                         <img
-                            src="../../../public/assets/images/home/dashboard.png"
+                            src="../../assets/images/home/dashboard.png"
                             alt="dashboard"
                             className="h-full w-full object-cover  max-lg:object-contain"
                         />
@@ -78,7 +78,7 @@ const Section1 = () => {
                     <div className="max-h-[650px] max-w-[850px] overflow-hidden rounded-lg 
                                 shadow-lg shadow-[rgba(170,49,233,0.44021358543417366)]">
                         <img
-                            src="../../../public/assets/images/home/coding.png"
+                            src="../../assets/images/home/coding.png"
                             alt="coding"
                             className="h-full w-full object-cover"
                         />
@@ -159,7 +159,7 @@ const Section1 = () => {
                     <div className="max-h-[650px] max-w-[850px] overflow-hidden rounded-lg 
                                 shadow-lg shadow-[rgba(170,49,233,0.44021358543417366)]">
                         <img
-                            src="../../../public/assets/images/home/git.png"
+                            src="../../assets/images/home/git.png"
                             alt="coding"
                             className="h-full w-full object-cover"
                         />

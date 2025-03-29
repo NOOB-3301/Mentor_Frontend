@@ -33,7 +33,7 @@ const Header = () => {
             >
                 <a className="h-[50px] w-[50px] p-[4px]" href="">
                     <img
-                        src="../../../public/assets/logo/logo.png"
+                        src="../../assets/logo/logo.png"
                         alt="logo"
                         className="object h-full w-full"
                     />
